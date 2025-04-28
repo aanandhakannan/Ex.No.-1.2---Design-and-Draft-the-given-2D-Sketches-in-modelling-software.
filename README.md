@@ -2,7 +2,10 @@
 
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
- 
+
+ NAME:AANANDHA KANNAN.S
+
+ REG NO 212224040003
 ## REQUIREMENTS
  1. Autodesk fusion 360
  2. Windows 10
@@ -37,6 +40,8 @@
 
  ## OUTPUT
  
- 
+ ![Screenshot 2025-04-28 130014](https://github.com/user-attachments/assets/51c7ae53-83e9-4515-9f1e-2d0be504f247)
+
  ## RESULT
- Thus the given sketch is drawn and drafted using fusion 360 tool.
+
+iven sketch is drawn and drafted using fusion 360 tool.
